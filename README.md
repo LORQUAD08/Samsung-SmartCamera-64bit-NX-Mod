@@ -3,7 +3,7 @@
 Restores full **64-bit Android compatibility** (Galaxy S24 / S25 / S26 series, Pixel 7 / 8 / 9 / 10, Android 14 / 15 / 16) and fixes the **Remote Viewfinder** crash on **Samsung NX series** mirrorless cameras (tested on **Samsung NX300**).
 
 ---
-<img width="1440" height="3120" alt="Screenshot_20261108_151738_Samsung Smart Camera App" src="https://github.com/user-attachments/assets/903e3645-9ff2-44f4-b838-21a35056b088" />
+<img width="280" alt="Screenshot_20261108_151738_Samsung Smart Camera App" src="https://github.com/user-attachments/assets/903e3645-9ff2-44f4-b838-21a35056b088" />
 
 ## The Problem
 
